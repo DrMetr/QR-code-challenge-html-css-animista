@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 Solving this challenge was supposed to be a training of flexbox property usage. I added a gradient transition and a little animation using Animista CSS library, to my taste.
-I had a wide range of solutions of another challenge to peek for tips. Despite that I didn't manage to make the design responsive the way I should have been. 
+I had a wide range of solutions of another challenge to peek for tips. Despite that I didn't manage to make the design responsive the way it should have been. 
 
 ### Continued development
 
